@@ -41,19 +41,6 @@ continuously learning new technologies and best practices.
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=pavelo0&show_icons=true&theme=tokyonight&title_color=00FF88&text_color=00FF88&icon_color=00FF88&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelo0&layout=compact&langs_count=8&theme=tokyonight&title_color=00FF88&text_color=00FF88&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=pavelo0&theme=dark&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### Activity Graph
 
 <div align="center">
@@ -68,12 +55,11 @@ continuously learning new technologies and best practices.
   <a href="https://github.com/pavelo0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/pavel-melnik-095a16288/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=65&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=0D1117&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=65&section=footer&text=Let%27s+build+something+amazing+together!&fontSize=18&fontColor=0D1117&animation=twinkling&fontAlignY=35"/>
 </div>

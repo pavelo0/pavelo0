@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00FF88&size=32&center=true&vCenter=true&width=500&duration=1500&pause=300&lines=Pavelo_0;Frontend+Developer;React+%7C+TypeScript+%7C+Redux;Building+amazing+UIs" alt="Typing SVG" />
+image.png<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00FF88&size=32&center=true&vCenter=true&width=500&duration=1500&pause=300&lines=Pavelo_0;Frontend+Developer;React+%7C+TypeScript+%7C+Redux;Building+amazing+UIs" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -11,12 +12,12 @@
 ### About
 
 Passionate frontend developer specializing in **React** and modern web
-technologies. Currently working at **Innovise**, where I build scalable and
+technologies. Currently working at **Innowise**, where I build scalable and
 user-friendly applications. I'm constantly learning and improving my skills,
 focusing on writing clean, maintainable code and creating exceptional user
 experiences.
 
-- 💼 Working at: **Innovise**
+- 💼 Working at: **innowise**
 - 🎯 Focus: Building clean, maintainable, and performant user interfaces
 - 📚 Currently learning: Advanced React patterns, TypeScript, and modern
   development practices
